@@ -1,7 +1,7 @@
 **This plugin is no longer used.  Use the suggested repository below.**
 [https://github.com/cavalryjim/videoCordovaPluginTwilioVideo](https://github.com/cavalryjim/videoCordovaPluginTwilioVideo)
 
-This plugin works with iOS but has issues supporting Android.  Use [https://github.com/cavalryjim/videoCordovaPluginTwilioVideo](videoCordovaPluginTwilioVideo).
+This plugin works with iOS but has issues supporting Android.  Use [videoCordovaPluginTwilioVideo](https://github.com/cavalryjim/videoCordovaPluginTwilioVideo).
 
 1. Download cordova plugin helper that will automatically add the correct TwilioVideo SDK in iOS (Other cocoapods can be added if needed)
     - `npm i cordova-plugin-cocoapod-support`
