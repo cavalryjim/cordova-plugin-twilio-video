@@ -1,12 +1,15 @@
-**Using the cordova plugin**
+**This plugin is no longer used.  Use the suggested repository below.**
+[https://github.com/cavalryjim/videoCordovaPluginTwilioVideo](https://github.com/cavalryjim/videoCordovaPluginTwilioVideo)
+
+This plugin works with iOS but has issues supporting Android.  Use [https://github.com/cavalryjim/videoCordovaPluginTwilioVideo](videoCordovaPluginTwilioVideo).
 
 1. Add to the project
     - `ionic cordova plugin add [path/to/plugin]`
-  
+
 2. Implement the source code
-  
+
     - Declare app name the head of source file where you want to use the plugin (ionic 2/3 only)
-  
+
     - Get token And Call the API
     `cordova.videoconversation.open( RoomName: string, Token: string);`
 
